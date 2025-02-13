@@ -1,0 +1,2 @@
+Timing_control	KEYWORD1
+wait	KEYWORD2
