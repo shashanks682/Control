@@ -3,7 +3,7 @@
 ***
 
 > [!CAUTION]
-> This library is not usable
+> This library is not ready to be used
 
 > [!NOTE]
-> This library will be usable from version 1.0.0
+> Will be usable from version 1.0.0
